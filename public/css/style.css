@@ -1467,7 +1467,7 @@ footer {
   .about-description p {
     text-align: justify;
     font-size: 1rem;
-    width: 350px;
+    width: 300px;
   }
 
   .about-section-wrapper {
@@ -1487,6 +1487,10 @@ footer {
     position: relative;
     left: 20px;
     width: 350px;
+  }
+
+  .exp_sub_list li {
+    width: 270px;
   }
 
   .exp-timeline-card h3,
@@ -1634,7 +1638,7 @@ footer {
   }
 
   .slider .list .item {
-    margin-left: 20px;
+    margin-left: 0;
   }
   .slider .list img {
     width: 100%;
@@ -1647,6 +1651,7 @@ footer {
   }
   .tech-stock {
     height: auto;
+    margin-top: 200px;
   }
   .tech-stock h1 {
     margin: 0;
@@ -1655,7 +1660,7 @@ footer {
   }
 
   .tech-stock .tech_col h3 {
-    width: 210px;
+    width: 80px;
     font-size: 1rem;
   }
 }
