@@ -1486,7 +1486,7 @@ footer {
   .exp-timeline-card .exp_list {
     position: relative;
     left: 20px;
-    width: 350px;
+    width: 320px;
   }
 
   .exp_sub_list li {
@@ -1495,7 +1495,7 @@ footer {
 
   .exp-timeline-card h3,
   .exp-timeline-card p {
-    width: 350px;
+    width: 330px;
     text-align: center;
     font-size: 1rem;
   }
@@ -1651,7 +1651,7 @@ footer {
   }
   .tech-stock {
     height: auto;
-    margin-top: 200px;
+    margin-top: 300px;
   }
   .tech-stock h1 {
     margin: 0;
